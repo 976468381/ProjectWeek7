@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\AndroidProject\\ptr_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\AndroidProject\\AndroidProject\\ptr_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\Day29PullToRefresh.ListView\\ptr_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\AndroidProject\\Day29PullToRefresh.ListView\\ptr_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\AndroidProject\\ptr_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\AndroidProject\\AndroidProject\\ptr_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\Day29PullToRefresh.ListView\\ptr_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\AndroidProject\\Day29PullToRefresh.ListView\\ptr_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

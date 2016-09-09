@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/ridioGroup2Id"
+
+     >
+        <RadioButton
+            android:layout_width="match_parent"
+           android:layout_height="60dp"
+            android:id="@+id/radioButton1Id2"
+             android:button="@drawable/set_icon_account"
+             android:text="注册/登录蜂鸟"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/radioButton2Id2"
+            android:button="@drawable/set_icon_weibo"
+            android:text="分享帐号管理"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/radioButton3Id2"
+            android:button="@drawable/bbs_icon_1"
+            android:text="我的论坛"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/radioButton4Id2"
+            android:button="@drawable/set_icon_favorite"
+            android:text="个人收藏"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/radioButton5Id2"
+            android:button="@drawable/set_icon_clear_cache"
+            android:text="清除应用缓存"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/radioButton6Id2"
+            android:button="@drawable/set_icon_auto_image"
+            android:text="自动加载图片"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/radioButton7Id2"
+            android:button="@drawable/set_icon_feedback"
+            android:text="建议反馈"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/radioButton8Id2"
+            android:button="@drawable/set_icon_about"
+            android:text="关于我们"/>
+
+
+
+
+
+    </RadioGroup>
+</LinearLayout>
